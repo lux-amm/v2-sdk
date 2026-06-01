@@ -1,6 +1,6 @@
 {
   "name": "@luxamm/v2-sdk",
-  "version": "1.0.0",
+  "version": "4.20.0",
   "description": "Lux AMM V2 SDK. Fork of upstream Uniswap v2-sdk.",
   "repository": "git+https://github.com/lux-amm/v2-sdk.git",
   "keywords": [
@@ -62,8 +62,7 @@
     "singleQuote": true
   },
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "homepage": "https://luxamm.io"
 }
